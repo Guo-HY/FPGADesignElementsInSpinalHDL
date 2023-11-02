@@ -1,0 +1,1 @@
+export VSRC_HOME=$(pwd)/FPGADesignElements
